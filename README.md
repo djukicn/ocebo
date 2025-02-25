@@ -1,1 +1,3 @@
-# ocebo
+## Object-centric pretraining via target encoder bootstrapping (ICLR 2025)
+
+Coming soon...
